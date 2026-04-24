@@ -1,4 +1,5 @@
-public class CompareTwoGenericArrays<T> {
+public class CompareTwoGenericArrays<T> // Only need the T once
+ {
     /* Write a Java program to create a generic method that takes two 
     arrays of the same type and checks if they have the same elements 
     in the same order. */
